@@ -1,8 +1,9 @@
+plotly
 streamlit
-requests
+streamlit-folium
+folium
 numpy
 pandas
+requests
 rasterio
 matplotlib
-folium
-streamlit-folium
