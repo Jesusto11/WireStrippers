@@ -1,8 +1,0 @@
-streamlit
-requests
-numpy
-pandas
-rasterio
-matplotlib
-folium
-streamlit-folium
